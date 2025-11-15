@@ -33,6 +33,6 @@ Bu hizmetler uygulama dışına herhangi bir kişisel veri göndermez.
 MathApp, kullanıcı verilerini cihaz içinde tutar ve internet üzerinden veri aktarımı yapmaz.  
 Kullanıcı verileri uygulamayı silmeniz durumunda tamamen silinir.
 
-## İletişim
+### İletişim
 Herhangi bir soru için:  
 **cihanabatay@gmail.com**
