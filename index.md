@@ -39,6 +39,6 @@ Tüm veriler yalnızca cihaz içerisinde tutulur ve kullanıcı uygulamayı sile
 ## İletişim
 Sorularınız için:
 
-**cihan.abatay@gmail.com**
+**cihanabatay@gmail.com**
 
 Bu politika gerektiğinde güncellenebilir.
